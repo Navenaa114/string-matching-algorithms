@@ -17,14 +17,8 @@ This project implements three string matching algorithms in Python.
 ## Technologies
 
 - Python 3
-
 ## Output
-
 The program prints:
 - Match positions
 - Number of comparisons
 - Performance comparison table
-
-## Author
-
-Your Name
